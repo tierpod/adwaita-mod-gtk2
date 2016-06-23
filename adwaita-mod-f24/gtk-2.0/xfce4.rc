@@ -1,0 +1,17 @@
+style "xfce4-panel" {
+
+  engine "pixmap" {
+
+    image {
+      function = SHADOW
+      file     = "assets/frame.png"
+      border   = {0, 0, 0, 0}
+      stretch  = TRUE
+    }
+
+  }
+
+}
+
+widget_class "*Tray*"               style "xfce4-panel"
+widget_class "*tray*"               style "xfce4-panel"

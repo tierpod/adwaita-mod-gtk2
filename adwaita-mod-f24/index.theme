@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=adwaita-mod-f24
+Type=X-GNOME-Metatheme
+Comment=There is only one
+Encoding=UTF-8
+GtkTheme=adwaita-mod-f24
+MetacityTheme=Adwaita
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
