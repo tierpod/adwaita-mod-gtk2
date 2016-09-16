@@ -1,0 +1,6 @@
+# based on 8888888 xfwm theme
+title_full_width=true
+title_shadow_active=false
+button_offset=0
+button_spacing=0
+show_app_icon=false
